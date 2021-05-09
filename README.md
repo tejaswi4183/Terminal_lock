@@ -1,5 +1,5 @@
 # Terminal_lock
-git clone
+git clone https://github.com/tejaswi4183/Terminal_lock
 
 cd Terminal_lock
 
